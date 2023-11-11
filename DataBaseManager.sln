@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseManager.Web", "DataBaseManager.Web\DataBaseManager.Web.csproj", "{D7E71ABE-024A-46EE-9DE4-46FB21321DF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseManager.Models", "DatabaseManager.Models\DatabaseManager.Models.csproj", "{44FF038A-4ACD-411F-9E17-15F3E52DDE27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D7E71ABE-024A-46EE-9DE4-46FB21321DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7E71ABE-024A-46EE-9DE4-46FB21321DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7E71ABE-024A-46EE-9DE4-46FB21321DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44FF038A-4ACD-411F-9E17-15F3E52DDE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FF038A-4ACD-411F-9E17-15F3E52DDE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FF038A-4ACD-411F-9E17-15F3E52DDE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FF038A-4ACD-411F-9E17-15F3E52DDE27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
